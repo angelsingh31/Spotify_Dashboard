@@ -201,6 +201,8 @@ Implement Top 10 playlists logic
 
 Add dynamic tooltips & drill-through pages
 
+## database used
+- <a href = "https://github.com/angelsingh31/Spotify_Dashboard">dashboard</a>
 
 
 
