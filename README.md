@@ -207,6 +207,13 @@ Add dynamic tooltips & drill-through pages
 - <a href = "https://github.com/angelsingh31/Spotify_Dashboard/tree/main/screenshot">dashboard</a>
 
 
+# Dashboard interaction
+<img width="1297" height="725" alt="Screenshot 2025-12-24 193139" src="https://github.com/user-attachments/assets/9e43f6ad-5a8d-4262-a8ad-05d8fb14f516" />
+<img width="1302" height="725" alt="Screenshot 2025-12-24 193050" src="https://github.com/user-attachments/assets/da3996c9-da93-4a75-be18-5e219b4e46d2" />
+<img width="1301" height="731" alt="Screenshot 2025-12-24 193115" src="https://github.com/user-attachments/assets/82b15af5-1b5c-4d05-8d2e-4972e2ac1186" />
+
+
+
 ## 👩‍💻 Author
 
 Angel Singh
